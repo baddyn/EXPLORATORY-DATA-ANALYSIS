@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[3]:
-
-
 #eda is exploratory data analysis 
 #using linear algebra or using simle tools like plotting ,statistics 
 #to understand about our dataset
