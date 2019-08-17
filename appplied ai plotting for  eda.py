@@ -573,18 +573,3 @@ plt.show();
 #2d density contour
 
 #3d etc dealt later as we need d visualisation to plot 3d
-
-
-# In[ ]:
-
-
-#solve haberman cancer survival forom kaggle
-
-#tasks
-#erform eda
-#1. explain objective
-# 2. high level stats  no. of points,size,features etc.
-#3 perform univar aalysis
-#perform #bivariate analysis
-#write obsn in english clearly
-
